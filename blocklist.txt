@@ -1,0 +1,3 @@
+127.0.0.1 iprofiles.apple.com
+127.0.0.1 mdmenrollment.apple.com
+127.0.0.1 deviceenrollment.apple.com
