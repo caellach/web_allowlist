@@ -2,3 +2,4 @@
 ||*.apple-dns.net
 @@||discussions.apple.com
 @@||gsa.apple.com
+@@||support.apple.com
