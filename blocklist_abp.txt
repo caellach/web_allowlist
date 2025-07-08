@@ -3,3 +3,6 @@
 @@||discussions.apple.com
 @@||gsa.apple.com
 @@||support.apple.com
+
+
+||*.jamfcloud.com
