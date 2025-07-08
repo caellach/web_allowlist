@@ -1,2 +1,3 @@
 ||*.apple.com
 ||*.apple-dns.net
+@@||discussions.apple.com
